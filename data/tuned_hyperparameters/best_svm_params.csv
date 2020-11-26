@@ -1,0 +1,6 @@
+,C,break_ties,cache_size,class_weight,coef0,decision_function_shape,degree,gamma,kernel,max_iter,probability,random_state,shrinking,tol,verbose
+Model_1,0.5,FALSE,200,balanced,0,ovr,3,scale,rbf,-1,TRUE,42,TRUE,0.001,FALSE
+Model_2,0.4,FALSE,200,balanced,0,ovr,3,scale,linear,-1,TRUE,42,TRUE,0.001,FALSE
+Model_3,0.5,FALSE,200,balanced,0,ovr,3,scale,rbf,-1,TRUE,42,TRUE,0.001,FALSE
+Model_4,0.6,FALSE,200,balanced,0,ovr,3,scale,rbf,-1,TRUE,42,TRUE,0.001,FALSE
+Model_5,0.3,FALSE,200,balanced,0,ovr,3,scale,rbf,-1,TRUE,42,TRUE,0.001,FALSE

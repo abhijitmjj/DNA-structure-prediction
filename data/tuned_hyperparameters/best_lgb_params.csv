@@ -1,0 +1,6 @@
+,objective,seed,metric,verbosity,boosting_type,learning_rate,scale_pos_weight,lambda_l1,lambda_l2,num_leaves,feature_fraction,bagging_fraction,bagging_freq,min_child_samples,num_iterations
+Model_1,binary,42,auc,-1,gbdt,0.1,2.147540984,1.11E-05,7.17E-07,65,0.847751242,0.776944157,1,2,150
+Model_2,binary,42,auc,-1,gbdt,0.1,2.147540984,0.000247376,2.30E-05,244,0.511385245,0.614197099,1,4,150
+Model_3,binary,42,auc,-1,gbdt,0.1,2.147540984,0.002451474,4.81E-07,63,0.494087396,0.904993524,1,9,150
+Model_4,binary,42,auc,-1,gbdt,0.1,2.147540984,7.40E-06,0.009939805,201,0.877167063,0.589557146,1,12,150
+Model_5,binary,42,auc,-1,gbdt,0.1,2.147540984,0.000126948,0.167712671,101,0.48023107,0.920669866,7,3,150

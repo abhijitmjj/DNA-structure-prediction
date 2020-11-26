@@ -1,0 +1,6 @@
+,C,class_weight,dual,fit_intercept,intercept_scaling,max_iter,multi_class,penalty,random_state,solver,tol,verbose,warm_start
+Model_1,0.4,balanced,FALSE,TRUE,1,100,auto,l2,42,lbfgs,0.0001,FALSE,FALSE
+Model_2,0.5,balanced,FALSE,TRUE,1,100,auto,l2,42,lbfgs,0.0001,FALSE,FALSE
+Model_3,0.2,balanced,FALSE,TRUE,1,100,auto,l2,42,lbfgs,0.0001,FALSE,FALSE
+Model_4,0.2,balanced,FALSE,TRUE,1,100,auto,l2,42,lbfgs,0.0001,FALSE,FALSE
+Model_5,0.9,balanced,FALSE,TRUE,1,100,auto,l2,42,lbfgs,0.0001,FALSE,FALSE

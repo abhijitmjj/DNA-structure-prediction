@@ -1,0 +1,6 @@
+,bootstrap,ccp_alpha,class_weight,criterion,max_depth,max_features,max_leaf_nodes,max_samples,min_impurity_decrease,min_impurity_split,min_samples_leaf,min_samples_split,min_weight_fraction_leaf,n_estimators,n_jobs,oob_score,random_state,verbose,warm_start
+Model_1,True,0.0,,gini,15,auto,,,0.0,,0.2,0.4,0.0,110,-1,False,42,0,False
+Model_2,True,0.0,,gini,13,auto,,,0.0,,0.2,0.30000000000000004,0.0,120,-1,False,42,0,False
+Model_3,True,0.0,,gini,19,sqrt,,,0.0,,0.2,0.1,0.0,460,-1,False,42,0,False
+Model_4,True,0.0,,gini,22,sqrt,,,0.0,,0.2,0.30000000000000004,0.0,160,-1,False,42,0,False
+Model_5,True,0.0,,gini,13,auto,,,0.0,,0.1,0.30000000000000004,0.0,220,-1,False,42,0,False

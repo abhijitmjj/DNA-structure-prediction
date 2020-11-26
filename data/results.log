@@ -1,0 +1,360 @@
+INFO:root:Fold 1: Average PR: 0.96 
+INFO:root:Fold 1: AUC PR: 0.96 
+INFO:root:Fold 1: Best Threshold_f-score=0.59, F-Score=0.9090909090909091
+INFO:root:Fold 1: Accuracy: 0.92
+INFO:root:Fold 1: F1: 0.86
+INFO:root:Fold 1: MCC: 0.82
+INFO:root:Fold 1: ROC-AUC: 0.98
+INFO:root:Fold 1: Best Threshold_ROC=0.59, G-Mean_ROC=0.91
+INFO:root:Fold 2: Average PR: 0.93 
+INFO:root:Fold 2: AUC PR: 0.93 
+INFO:root:Fold 2: Best Threshold_f-score=0.81, F-Score=0.8799999999999999
+INFO:root:Fold 2: Accuracy: 0.90
+INFO:root:Fold 2: F1: 0.83
+INFO:root:Fold 2: MCC: 0.77
+INFO:root:Fold 2: ROC-AUC: 0.96
+INFO:root:Fold 2: Best Threshold_ROC=0.37, G-Mean_ROC=0.90
+INFO:root:Fold 3: Average PR: 0.99 
+INFO:root:Fold 3: AUC PR: 0.99 
+INFO:root:Fold 3: Best Threshold_f-score=0.87, F-Score=0.9600000000000001
+INFO:root:Fold 3: Accuracy: 0.95
+INFO:root:Fold 3: F1: 0.92
+INFO:root:Fold 3: MCC: 0.88
+INFO:root:Fold 3: ROC-AUC: 0.99
+INFO:root:Fold 3: Best Threshold_ROC=0.87, G-Mean_ROC=0.98
+INFO:root:Fold 4: Average PR: 0.98 
+INFO:root:Fold 4: AUC PR: 0.98 
+INFO:root:Fold 4: Best Threshold_f-score=0.26, F-Score=0.9600000000000001
+INFO:root:Fold 4: Accuracy: 0.95
+INFO:root:Fold 4: F1: 0.92
+INFO:root:Fold 4: MCC: 0.88
+INFO:root:Fold 4: ROC-AUC: 0.99
+INFO:root:Fold 4: Best Threshold_ROC=0.26, G-Mean_ROC=0.98
+INFO:root:Fold 5: Average PR: 0.96 
+INFO:root:Fold 5: AUC PR: 0.96 
+INFO:root:Fold 5: Best Threshold_f-score=0.05, F-Score=0.923076923076923
+INFO:root:Fold 5: Accuracy: 0.92
+INFO:root:Fold 5: F1: 0.88
+INFO:root:Fold 5: MCC: 0.82
+INFO:root:Fold 5: ROC-AUC: 0.98
+INFO:root:Fold 5: Best Threshold_ROC=0.05, G-Mean_ROC=0.96
+INFO:root:Fold 1: Average PR: 0.96 
+INFO:root:Fold 1: AUC PR: 0.96 
+INFO:root:Fold 1: Best Threshold_f-score=0.59, F-Score=0.9090909090909091
+INFO:root:Fold 1: Accuracy: 0.92
+INFO:root:Fold 1: F1: 0.86
+INFO:root:Fold 1: MCC: 0.82
+INFO:root:Fold 1: ROC-AUC: 0.98
+INFO:root:Fold 1: Best Threshold_ROC=0.59, G-Mean_ROC=0.91
+INFO:root:Fold 2: Average PR: 0.93 
+INFO:root:Fold 2: AUC PR: 0.93 
+INFO:root:Fold 2: Best Threshold_f-score=0.81, F-Score=0.8799999999999999
+INFO:root:Fold 2: Accuracy: 0.90
+INFO:root:Fold 2: F1: 0.83
+INFO:root:Fold 2: MCC: 0.77
+INFO:root:Fold 2: ROC-AUC: 0.96
+INFO:root:Fold 2: Best Threshold_ROC=0.37, G-Mean_ROC=0.90
+INFO:root:Fold 3: Average PR: 0.99 
+INFO:root:Fold 3: AUC PR: 0.99 
+INFO:root:Fold 3: Best Threshold_f-score=0.87, F-Score=0.9600000000000001
+INFO:root:Fold 3: Accuracy: 0.95
+INFO:root:Fold 3: F1: 0.92
+INFO:root:Fold 3: MCC: 0.88
+INFO:root:Fold 3: ROC-AUC: 0.99
+INFO:root:Fold 3: Best Threshold_ROC=0.87, G-Mean_ROC=0.98
+INFO:root:Fold 4: Average PR: 0.98 
+INFO:root:Fold 4: AUC PR: 0.98 
+INFO:root:Fold 4: Best Threshold_f-score=0.26, F-Score=0.9600000000000001
+INFO:root:Fold 4: Accuracy: 0.95
+INFO:root:Fold 4: F1: 0.92
+INFO:root:Fold 4: MCC: 0.88
+INFO:root:Fold 4: ROC-AUC: 0.99
+INFO:root:Fold 4: Best Threshold_ROC=0.26, G-Mean_ROC=0.98
+INFO:root:Fold 5: Average PR: 0.96 
+INFO:root:Fold 5: AUC PR: 0.96 
+INFO:root:Fold 5: Best Threshold_f-score=0.05, F-Score=0.923076923076923
+INFO:root:Fold 5: Accuracy: 0.92
+INFO:root:Fold 5: F1: 0.88
+INFO:root:Fold 5: MCC: 0.82
+INFO:root:Fold 5: ROC-AUC: 0.98
+INFO:root:Fold 5: Best Threshold_ROC=0.05, G-Mean_ROC=0.96
+INFO:root:Fold 1: Average PR: 0.97 
+INFO:root:Fold 1: AUC PR: 0.97 
+INFO:root:Fold 1: Best Threshold_f-score=0.34, F-Score=0.9166666666666666
+INFO:root:Fold 1: Accuracy: 0.92
+INFO:root:Fold 1: F1: 0.87
+INFO:root:Fold 1: MCC: 0.82
+INFO:root:Fold 1: ROC-AUC: 0.98
+INFO:root:Fold 1: Best Threshold_ROC=0.34, G-Mean_ROC=0.94
+INFO:root:Fold 2: Average PR: 0.94 
+INFO:root:Fold 2: AUC PR: 0.93 
+INFO:root:Fold 2: Best Threshold_f-score=0.43, F-Score=0.888888888888889
+INFO:root:Fold 2: Accuracy: 0.90
+INFO:root:Fold 2: F1: 0.85
+INFO:root:Fold 2: MCC: 0.77
+INFO:root:Fold 2: ROC-AUC: 0.96
+INFO:root:Fold 2: Best Threshold_ROC=0.43, G-Mean_ROC=0.92
+INFO:root:Fold 3: Average PR: 0.97 
+INFO:root:Fold 3: AUC PR: 0.97 
+INFO:root:Fold 3: Best Threshold_f-score=0.81, F-Score=0.9600000000000001
+INFO:root:Fold 3: Accuracy: 0.95
+INFO:root:Fold 3: F1: 0.92
+INFO:root:Fold 3: MCC: 0.88
+INFO:root:Fold 3: ROC-AUC: 0.99
+INFO:root:Fold 3: Best Threshold_ROC=0.81, G-Mean_ROC=0.98
+INFO:root:Fold 4: Average PR: 0.99 
+INFO:root:Fold 4: AUC PR: 0.99 
+INFO:root:Fold 4: Best Threshold_f-score=0.38, F-Score=0.9600000000000001
+INFO:root:Fold 4: Accuracy: 0.95
+INFO:root:Fold 4: F1: 0.92
+INFO:root:Fold 4: MCC: 0.88
+INFO:root:Fold 4: ROC-AUC: 0.99
+INFO:root:Fold 4: Best Threshold_ROC=0.38, G-Mean_ROC=0.98
+INFO:root:Fold 5: Average PR: 0.99 
+INFO:root:Fold 5: AUC PR: 0.99 
+INFO:root:Fold 5: Best Threshold_f-score=0.08, F-Score=0.9600000000000001
+INFO:root:Fold 5: Accuracy: 0.95
+INFO:root:Fold 5: F1: 0.92
+INFO:root:Fold 5: MCC: 0.88
+INFO:root:Fold 5: ROC-AUC: 1.00
+INFO:root:Fold 5: Best Threshold_ROC=0.08, G-Mean_ROC=0.98
+INFO:root:Fold 1: Average PR: 0.96 
+INFO:root:Fold 1: AUC PR: 0.96 
+INFO:root:Fold 1: Best Threshold_f-score=0.59, F-Score=0.9090909090909091
+INFO:root:Fold 1: Accuracy: 0.92
+INFO:root:Fold 1: F1: 0.86
+INFO:root:Fold 1: MCC: 0.82
+INFO:root:Fold 1: ROC-AUC: 0.98
+INFO:root:Fold 1: Best Threshold_ROC=0.59, G-Mean_ROC=0.91
+INFO:root:Fold 2: Average PR: 0.93 
+INFO:root:Fold 2: AUC PR: 0.93 
+INFO:root:Fold 2: Best Threshold_f-score=0.81, F-Score=0.8799999999999999
+INFO:root:Fold 2: Accuracy: 0.90
+INFO:root:Fold 2: F1: 0.83
+INFO:root:Fold 2: MCC: 0.77
+INFO:root:Fold 2: ROC-AUC: 0.96
+INFO:root:Fold 2: Best Threshold_ROC=0.37, G-Mean_ROC=0.90
+INFO:root:Fold 3: Average PR: 0.99 
+INFO:root:Fold 3: AUC PR: 0.99 
+INFO:root:Fold 3: Best Threshold_f-score=0.87, F-Score=0.9600000000000001
+INFO:root:Fold 3: Accuracy: 0.95
+INFO:root:Fold 3: F1: 0.92
+INFO:root:Fold 3: MCC: 0.88
+INFO:root:Fold 3: ROC-AUC: 0.99
+INFO:root:Fold 3: Best Threshold_ROC=0.87, G-Mean_ROC=0.98
+INFO:root:Fold 4: Average PR: 0.98 
+INFO:root:Fold 4: AUC PR: 0.98 
+INFO:root:Fold 4: Best Threshold_f-score=0.26, F-Score=0.9600000000000001
+INFO:root:Fold 4: Accuracy: 0.95
+INFO:root:Fold 4: F1: 0.92
+INFO:root:Fold 4: MCC: 0.88
+INFO:root:Fold 4: ROC-AUC: 0.99
+INFO:root:Fold 4: Best Threshold_ROC=0.26, G-Mean_ROC=0.98
+INFO:root:Fold 5: Average PR: 0.96 
+INFO:root:Fold 5: AUC PR: 0.96 
+INFO:root:Fold 5: Best Threshold_f-score=0.05, F-Score=0.923076923076923
+INFO:root:Fold 5: Accuracy: 0.92
+INFO:root:Fold 5: F1: 0.88
+INFO:root:Fold 5: MCC: 0.82
+INFO:root:Fold 5: ROC-AUC: 0.98
+INFO:root:Fold 5: Best Threshold_ROC=0.05, G-Mean_ROC=0.96
+INFO:root:Fold 1: Average PR: 0.92 
+INFO:root:Fold 1: AUC PR: 0.92 
+INFO:root:Fold 1: Best Threshold_f-score=0.42, F-Score=0.8695652173913043
+INFO:root:Fold 1: Accuracy: 0.90
+INFO:root:Fold 1: F1: 0.82
+INFO:root:Fold 1: MCC: 0.75
+INFO:root:Fold 1: ROC-AUC: 0.96
+INFO:root:Fold 1: Best Threshold_ROC=0.24, G-Mean_ROC=0.90
+INFO:root:Fold 2: Average PR: 0.79 
+INFO:root:Fold 2: AUC PR: 0.78 
+INFO:root:Fold 2: Best Threshold_f-score=0.42, F-Score=0.7407407407407408
+INFO:root:Fold 2: Accuracy: 0.79
+INFO:root:Fold 2: F1: 0.69
+INFO:root:Fold 2: MCC: 0.54
+INFO:root:Fold 2: ROC-AUC: 0.87
+INFO:root:Fold 2: Best Threshold_ROC=0.42, G-Mean_ROC=0.81
+INFO:root:Fold 3: Average PR: 0.98 
+INFO:root:Fold 3: AUC PR: 0.98 
+INFO:root:Fold 3: Best Threshold_f-score=0.72, F-Score=0.9565217391304348
+INFO:root:Fold 3: Accuracy: 0.95
+INFO:root:Fold 3: F1: 0.91
+INFO:root:Fold 3: MCC: 0.88
+INFO:root:Fold 3: ROC-AUC: 0.99
+INFO:root:Fold 3: Best Threshold_ROC=0.72, G-Mean_ROC=0.96
+INFO:root:Fold 4: Average PR: 0.92 
+INFO:root:Fold 4: AUC PR: 0.91 
+INFO:root:Fold 4: Best Threshold_f-score=0.71, F-Score=0.8571428571428571
+INFO:root:Fold 4: Accuracy: 0.89
+INFO:root:Fold 4: F1: 0.80
+INFO:root:Fold 4: MCC: 0.76
+INFO:root:Fold 4: ROC-AUC: 0.94
+INFO:root:Fold 4: Best Threshold_ROC=0.71, G-Mean_ROC=0.87
+INFO:root:Fold 5: Average PR: 0.91 
+INFO:root:Fold 5: AUC PR: 0.91 
+INFO:root:Fold 5: Best Threshold_f-score=0.33, F-Score=0.8799999999999999
+INFO:root:Fold 5: Accuracy: 0.89
+INFO:root:Fold 5: F1: 0.83
+INFO:root:Fold 5: MCC: 0.76
+INFO:root:Fold 5: ROC-AUC: 0.94
+INFO:root:Fold 5: Best Threshold_ROC=0.33, G-Mean_ROC=0.92
+INFO:root:Fold 1: Average PR: 0.92 
+INFO:root:Fold 1: AUC PR: 0.92 
+INFO:root:Fold 1: Best Threshold_f-score=0.42, F-Score=0.8695652173913043
+INFO:root:Fold 1: Accuracy: 0.90
+INFO:root:Fold 1: F1: 0.82
+INFO:root:Fold 1: MCC: 0.75
+INFO:root:Fold 1: ROC-AUC: 0.96
+INFO:root:Fold 1: Best Threshold_ROC=0.24, G-Mean_ROC=0.90
+INFO:root:Fold 2: Average PR: 0.86 
+INFO:root:Fold 2: AUC PR: 0.85 
+INFO:root:Fold 2: Best Threshold_f-score=0.81, F-Score=0.8333333333333333
+INFO:root:Fold 2: Accuracy: 0.87
+INFO:root:Fold 2: F1: 0.78
+INFO:root:Fold 2: MCC: 0.71
+INFO:root:Fold 2: ROC-AUC: 0.90
+INFO:root:Fold 2: Best Threshold_ROC=0.62, G-Mean_ROC=0.87
+INFO:root:Fold 3: Average PR: 0.98 
+INFO:root:Fold 3: AUC PR: 0.98 
+INFO:root:Fold 3: Best Threshold_f-score=0.72, F-Score=0.9565217391304348
+INFO:root:Fold 3: Accuracy: 0.95
+INFO:root:Fold 3: F1: 0.91
+INFO:root:Fold 3: MCC: 0.88
+INFO:root:Fold 3: ROC-AUC: 0.99
+INFO:root:Fold 3: Best Threshold_ROC=0.72, G-Mean_ROC=0.96
+INFO:root:Fold 4: Average PR: 0.92 
+INFO:root:Fold 4: AUC PR: 0.91 
+INFO:root:Fold 4: Best Threshold_f-score=0.71, F-Score=0.8571428571428571
+INFO:root:Fold 4: Accuracy: 0.89
+INFO:root:Fold 4: F1: 0.80
+INFO:root:Fold 4: MCC: 0.76
+INFO:root:Fold 4: ROC-AUC: 0.94
+INFO:root:Fold 4: Best Threshold_ROC=0.71, G-Mean_ROC=0.87
+INFO:root:Fold 5: Average PR: 0.91 
+INFO:root:Fold 5: AUC PR: 0.91 
+INFO:root:Fold 5: Best Threshold_f-score=0.33, F-Score=0.8799999999999999
+INFO:root:Fold 5: Accuracy: 0.89
+INFO:root:Fold 5: F1: 0.83
+INFO:root:Fold 5: MCC: 0.76
+INFO:root:Fold 5: ROC-AUC: 0.94
+INFO:root:Fold 5: Best Threshold_ROC=0.33, G-Mean_ROC=0.92
+INFO:root:Fold 1: Average PR: 0.91 
+INFO:root:Fold 1: AUC PR: 0.91 
+INFO:root:Fold 1: Best Threshold_f-score=0.59, F-Score=0.8695652173913043
+INFO:root:Fold 1: Accuracy: 0.90
+INFO:root:Fold 1: F1: 0.82
+INFO:root:Fold 1: MCC: 0.75
+INFO:root:Fold 1: ROC-AUC: 0.95
+INFO:root:Fold 1: Best Threshold_ROC=0.59, G-Mean_ROC=0.90
+INFO:root:Fold 2: Average PR: 0.88 
+INFO:root:Fold 2: AUC PR: 0.88 
+INFO:root:Fold 2: Best Threshold_f-score=0.54, F-Score=0.8461538461538461
+INFO:root:Fold 2: Accuracy: 0.87
+INFO:root:Fold 2: F1: 0.80
+INFO:root:Fold 2: MCC: 0.71
+INFO:root:Fold 2: ROC-AUC: 0.92
+INFO:root:Fold 2: Best Threshold_ROC=0.54, G-Mean_ROC=0.88
+INFO:root:Fold 3: Average PR: 0.98 
+INFO:root:Fold 3: AUC PR: 0.98 
+INFO:root:Fold 3: Best Threshold_f-score=0.73, F-Score=0.9565217391304348
+INFO:root:Fold 3: Accuracy: 0.95
+INFO:root:Fold 3: F1: 0.91
+INFO:root:Fold 3: MCC: 0.88
+INFO:root:Fold 3: ROC-AUC: 0.99
+INFO:root:Fold 3: Best Threshold_ROC=0.73, G-Mean_ROC=0.96
+INFO:root:Fold 4: Average PR: 0.88 
+INFO:root:Fold 4: AUC PR: 0.88 
+INFO:root:Fold 4: Best Threshold_f-score=0.29, F-Score=0.8275862068965517
+INFO:root:Fold 4: Accuracy: 0.84
+INFO:root:Fold 4: F1: 0.79
+INFO:root:Fold 4: MCC: 0.68
+INFO:root:Fold 4: ROC-AUC: 0.94
+INFO:root:Fold 4: Best Threshold_ROC=0.29, G-Mean_ROC=0.90
+INFO:root:Fold 5: Average PR: 0.82 
+INFO:root:Fold 5: AUC PR: 0.82 
+INFO:root:Fold 5: Best Threshold_f-score=0.29, F-Score=0.8148148148148148
+INFO:root:Fold 5: Accuracy: 0.84
+INFO:root:Fold 5: F1: 0.77
+INFO:root:Fold 5: MCC: 0.65
+INFO:root:Fold 5: ROC-AUC: 0.89
+INFO:root:Fold 5: Best Threshold_ROC=0.29, G-Mean_ROC=0.88
+INFO:root:Fold 1: Average PR: 0.92 
+INFO:root:Fold 1: AUC PR: 0.92 
+INFO:root:Fold 1: Best Threshold_f-score=0.42, F-Score=0.8695652173913043
+INFO:root:Fold 1: Accuracy: 0.90
+INFO:root:Fold 1: F1: 0.82
+INFO:root:Fold 1: MCC: 0.75
+INFO:root:Fold 1: ROC-AUC: 0.96
+INFO:root:Fold 1: Best Threshold_ROC=0.24, G-Mean_ROC=0.90
+INFO:root:Fold 2: Average PR: 0.79 
+INFO:root:Fold 2: AUC PR: 0.78 
+INFO:root:Fold 2: Best Threshold_f-score=0.42, F-Score=0.7407407407407408
+INFO:root:Fold 2: Accuracy: 0.79
+INFO:root:Fold 2: F1: 0.69
+INFO:root:Fold 2: MCC: 0.54
+INFO:root:Fold 2: ROC-AUC: 0.87
+INFO:root:Fold 2: Best Threshold_ROC=0.42, G-Mean_ROC=0.81
+INFO:root:Fold 3: Average PR: 0.98 
+INFO:root:Fold 3: AUC PR: 0.98 
+INFO:root:Fold 3: Best Threshold_f-score=0.72, F-Score=0.9565217391304348
+INFO:root:Fold 3: Accuracy: 0.95
+INFO:root:Fold 3: F1: 0.91
+INFO:root:Fold 3: MCC: 0.88
+INFO:root:Fold 3: ROC-AUC: 0.99
+INFO:root:Fold 3: Best Threshold_ROC=0.72, G-Mean_ROC=0.96
+INFO:root:Fold 4: Average PR: 0.92 
+INFO:root:Fold 4: AUC PR: 0.91 
+INFO:root:Fold 4: Best Threshold_f-score=0.71, F-Score=0.8571428571428571
+INFO:root:Fold 4: Accuracy: 0.89
+INFO:root:Fold 4: F1: 0.80
+INFO:root:Fold 4: MCC: 0.76
+INFO:root:Fold 4: ROC-AUC: 0.94
+INFO:root:Fold 4: Best Threshold_ROC=0.71, G-Mean_ROC=0.87
+INFO:root:Fold 5: Average PR: 0.91 
+INFO:root:Fold 5: AUC PR: 0.91 
+INFO:root:Fold 5: Best Threshold_f-score=0.33, F-Score=0.8799999999999999
+INFO:root:Fold 5: Accuracy: 0.89
+INFO:root:Fold 5: F1: 0.83
+INFO:root:Fold 5: MCC: 0.76
+INFO:root:Fold 5: ROC-AUC: 0.94
+INFO:root:Fold 5: Best Threshold_ROC=0.33, G-Mean_ROC=0.92
+INFO:root:Fold 1: Average PR: 0.96 
+INFO:root:Fold 1: AUC PR: 0.96 
+INFO:root:Fold 1: Best Threshold_f-score=0.59, F-Score=0.9090909090909091
+INFO:root:Fold 1: Accuracy: 0.92
+INFO:root:Fold 1: F1: 0.86
+INFO:root:Fold 1: MCC: 0.82
+INFO:root:Fold 1: ROC-AUC: 0.98
+INFO:root:Fold 1: Best Threshold_ROC=0.59, G-Mean_ROC=0.91
+INFO:root:Fold 2: Average PR: 0.93 
+INFO:root:Fold 2: AUC PR: 0.93 
+INFO:root:Fold 2: Best Threshold_f-score=0.81, F-Score=0.8799999999999999
+INFO:root:Fold 2: Accuracy: 0.90
+INFO:root:Fold 2: F1: 0.83
+INFO:root:Fold 2: MCC: 0.77
+INFO:root:Fold 2: ROC-AUC: 0.96
+INFO:root:Fold 2: Best Threshold_ROC=0.37, G-Mean_ROC=0.90
+INFO:root:Fold 3: Average PR: 0.99 
+INFO:root:Fold 3: AUC PR: 0.99 
+INFO:root:Fold 3: Best Threshold_f-score=0.87, F-Score=0.9600000000000001
+INFO:root:Fold 3: Accuracy: 0.95
+INFO:root:Fold 3: F1: 0.92
+INFO:root:Fold 3: MCC: 0.88
+INFO:root:Fold 3: ROC-AUC: 0.99
+INFO:root:Fold 3: Best Threshold_ROC=0.87, G-Mean_ROC=0.98
+INFO:root:Fold 4: Average PR: 0.98 
+INFO:root:Fold 4: AUC PR: 0.98 
+INFO:root:Fold 4: Best Threshold_f-score=0.26, F-Score=0.9600000000000001
+INFO:root:Fold 4: Accuracy: 0.95
+INFO:root:Fold 4: F1: 0.92
+INFO:root:Fold 4: MCC: 0.88
+INFO:root:Fold 4: ROC-AUC: 0.99
+INFO:root:Fold 4: Best Threshold_ROC=0.26, G-Mean_ROC=0.98
+INFO:root:Fold 5: Average PR: 0.96 
+INFO:root:Fold 5: AUC PR: 0.96 
+INFO:root:Fold 5: Best Threshold_f-score=0.05, F-Score=0.923076923076923
+INFO:root:Fold 5: Accuracy: 0.92
+INFO:root:Fold 5: F1: 0.88
+INFO:root:Fold 5: MCC: 0.82
+INFO:root:Fold 5: ROC-AUC: 0.98
+INFO:root:Fold 5: Best Threshold_ROC=0.05, G-Mean_ROC=0.96
