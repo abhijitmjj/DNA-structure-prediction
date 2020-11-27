@@ -4,8 +4,8 @@ Gupta, Abhijit; Kulkarni, Mandar; Mukherjee, Arnab (2020): Accurate Prediction o
 
 # Workflow diagram
 
+<div class="mermaid">
 
-```mermaid
 graph LR
 H[./data/tuned_hyperparameters] -->A
 A[./src] --> B(LightGBM)
@@ -13,4 +13,5 @@ A --> C(SVM)
 A --> D(Logistic Regression)
 A --> E(Naive Bayes)
 A --> F(Random Forest)
-```
+
+</div>
