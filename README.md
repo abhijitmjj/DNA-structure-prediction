@@ -51,4 +51,4 @@ We have also provided the `environment.yml` file for replicating our conda envir
 
 # How do I run/test different models? 
 
-For the ease of use, we have provided each model separately. Simply go to the **src** directory and run the Jupyter notebook to try out different approaches. 
+For the ease of use, we have provided each model separately. Simply go to the **src** directory and run the Jupyter notebooks to try out different approaches. 
