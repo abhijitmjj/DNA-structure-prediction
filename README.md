@@ -8,6 +8,11 @@ The **src** directory contains the different machine learning algorithms that we
   <img src="workflow_diagram.png" width="500" title="hover text">
 </p>
 
+# Data 
+
+The **data** directory contains our curated dataset - `curated_data.csv`. We have also provided the dataset in pickle format inside the `./data/pkl` directory. Inside the **data** directory, we have provided "Experimental conditions.xls". It contains the different experimental conditions under which our curated set of sequences where obtained. 
+
+# Utilities 
 The **utils** directory has two modules "NestedCV" and "Evaluator". "NestedCV" contains two generator functions, which provide implementation of nested cross-validation. The gen_data implements the "outer loop" by doing k-fold Stratified cross-validation. It also provides the option for performing SMOTE+Tomek on the training data, which can be turned on by setting the parameter `RESAMPLING=True`. At each iteration it yields a dictionary of a pair of "train" and "test" samples.
 The "inner loop" is implemented by another generator function named "gen_data_for_tuningHP". It takes the "train" data from an iteration of the outer loop and splits it into "inner train data" and "validation" data. It then performs the inner stratified k-fold cross-validation for tuning hyperparameters of an algorithm. 
 
