@@ -8,6 +8,7 @@ The **src** directory contains the different machine learning algorithms that we
   <img src="workflow_diagram.png" width="500" title="hover text">
 </p>
 
+
 # Data 
 
 The **data** directory contains our curated dataset - `curated_data.csv`. We have also provided the dataset in pickle format inside the `./data/pkl` directory. Inside the **data** directory, we have provided "Experimental conditions.xls". It contains the different experimental conditions under which our curated set of sequences where obtained. 
@@ -47,3 +48,7 @@ You can install them by running `conda install -c conda-forge <name-of-the-packa
 
 We have also provided the `environment.yml` file for replicating our conda environment. If you do not intend to install all packages listed below separately, then you can create the environment from the environment.yml file:
 `conda env create -f environment.yml`
+
+# How do I run/test different models? 
+
+For the ease of use, we have provided each model separately. Simply go to the **src** directory and run the Jupyter notebook to try out different approaches. 
