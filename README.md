@@ -19,7 +19,7 @@ The "inner loop" is implemented by another generator function named "gen_data_fo
 
 The next module, **Evaluator** is used for training and evaluation. It generates the "ROC-AUC" and "Precision-recall" graphs and outputs a dataframe that contains the result of performing nested cross validation. It also performs the classification by choosing the optimal threshold and then converting the class probabilities into the class labels.
 
-We have provided the Notebook files for each model inside the **src** directory. To ensure reproducability, we have provided the tuned hyperparameters and the data splits that we used. To reproduce our results, you can either use the seeds we used in the notebook or use the exact splits of data given in **/data/train_test_folds**. By default, the seed used by us gives the same split of data that is provided in "train_test_folds" directory.
+We have provided the Notebook files for each model inside the **src** directory. To ensure reproducability, we have provided the tuned hyperparameters and the data splits that we used. To reproduce our results, you can either use the seeds we used in the notebook or use the splits of data given in **/data/train_test_folds**. By default, we have set the seed to **42**, which gives the same split of data that is provided in "train_test_folds" directory.
 
 # Dependencies
 We have listed below the key dependencies required for running different ML algorithms.
@@ -44,7 +44,8 @@ You can install them by running `conda install -c conda-forge <name-of-the-packa
   - dill
   - shap
   - scikit-learn
-  - numpy   
+  - numpy
+  - xlrd  
 
 We have also provided the `environment.yml` file for replicating our conda environment. If you do not intend to install all packages listed below separately, then you can create the environment from the environment.yml file:
 `conda env create -f environment.yml`
