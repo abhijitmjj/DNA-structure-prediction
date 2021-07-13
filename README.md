@@ -1,6 +1,6 @@
 # DNA-structure-prediction
 Accurate Prediction of DNA structure from its sequence using Machine Learning
-Gupta, Abhijit; Kulkarni, Mandar; Mukherjee, Arnab (2020): Accurate Prediction of B-form/A-form DNA Conformation Propensity from Primary Sequence: A Machine Learning and Free energy Handshake. ChemRxiv. Preprint. https://doi.org/10.26434/chemrxiv.12599633.v3 
+Gupta, Abhijit; Kulkarni, Mandar; Mukherjee, Arnab (2020): Accurate Prediction of B-form/A-form DNA Conformation Propensity from Primary Sequence: A Machine Learning and Free energy Handshake. ChemRxiv. Preprint. https://doi.org/10.26434/chemrxiv.12599633.v3   
 [![DOI](https://zenodo.org/badge/301697564.svg)](https://zenodo.org/badge/latestdoi/301697564)
 # Workflow diagram
 The **src** directory contains the different machine learning algorithms that we tested using 5-fold nested cross validation strategy
